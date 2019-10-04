@@ -1,7 +1,7 @@
 # Webpack starter kit
 
-[Живая страница](https://luxplanjay.github.io/webpack-starter-kit/) после деплоя
-через `npm run deploy`.
+[Живая страница](https://github.com/YEvhen-SHmatko/goit-js-hw-10-food-service)
+после деплоя через `npm run deploy`.
 
 ## Использование
 
