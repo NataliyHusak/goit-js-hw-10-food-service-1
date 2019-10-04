@@ -1,6 +1,6 @@
 # Webpack starter kit
 
-[Живая страница](https://github.com/YEvhen-SHmatko/goit-js-hw-10-food-service)
+[Живая страница](https://yevhen-shmatko.github.io/goit-js-hw-10-food-service/)
 после деплоя через `npm run deploy`.
 
 ## Использование
